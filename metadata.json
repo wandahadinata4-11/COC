@@ -1,0 +1,6 @@
+{
+  "name": "Class of Champions - Battle for Glory",
+  "description": "Aplikasi game edukasi interaktif Class of Champions (COC) dengan papan soal rahasia, kustomisasi hingga 10 tim, pembuatan soal berbasis AI Gemini, papan ketik virtual, dan sistem skor dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
